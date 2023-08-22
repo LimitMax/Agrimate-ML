@@ -16,4 +16,4 @@ Struktur Folder:
 
 Persentase train,test,validation = 80%,10%,10%. Tapi bisa disesuaikan sesuai kebutuhan
 
-Link Dataset: https://www.kaggle.com/datasets/alinedobrovsky/plant-disease-classification-merged-dataset
+Link Dataset: https://www.kaggle.com/datasets/daffaalbari/agrimatev1
